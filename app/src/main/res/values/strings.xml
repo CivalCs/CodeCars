@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="action_settings">Settings</string>
+    <!--MyStrings-->
+    <string name="text_carro">Carro:</string>
+    <string name="text_fabricante">Fabricante:</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="sucesso">Cadastro realizado com sucesso!</string>
+    <string name="error">Erro ao cadastrar!</string>
+    <string name="title_activity_listar_carros">ListarCarros</string>
+    <string name="zero_registros">Nenhum carro cadastrado!</string>
+    <string name="listagem">Listagem de carros</string>
+    <string name="listar">Listar Carros</string>
+    <string name="list">Listagem</string>
+    <string name="nome_carro">Nome do carro:</string>
+    <string name="marca_carro">Marca do carro:</string>
+    <string name="apagar">Excluir</string>
+    <string name="title_activity_main2">AlteraCarroActivity</string>
+    <string name="title_activity_altera_carro">AlteraCarroActivity</string>
+
+
+
+</resources>
